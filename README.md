@@ -22,5 +22,3 @@ Clothing had the highest revenue among the categories shown. Approximately 73% o
 ## Conclusion
 This project helped me practice data cleaning, SQL analysis, and dashboard creation using Python, MySQL, and Power BI.
 
-## Learning Reference
-https://youtu.be/5PrZvPeUw60
